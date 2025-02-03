@@ -1,0 +1,18 @@
+music_station = "cold_valkyrie_station"
+
+music = { 
+	song = "dietotenertwachen" 
+}
+music = { 
+	song = "grunistunserfallschirm" 
+}
+music = { 
+	song = "woallestrasenenden" 
+}
+music = { 
+	song = "heileuropa" 
+}
+music = { 
+	song = "shaitanarba" 
+}
+

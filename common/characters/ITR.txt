@@ -1,0 +1,19 @@
+characters = {
+
+	ITR_alessandro_pertini = {
+		name = ITR_alessandro_pertini
+		portraits = {
+			civilian = {
+				large = GFX_portrait_ITR_alessandro_pertini
+			}
+		}
+		country_leader = {
+			ideology = italian_socialism
+			expire = "1960.3.1"
+			id = -1
+			traits = { }
+		}
+	}
+
+}
+	

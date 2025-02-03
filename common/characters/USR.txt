@@ -1,0 +1,19 @@
+characters = {
+
+	USR_nikita_krushchyov = {
+		name = USR_nikita_krushchyov
+		portraits = {
+			civilian = {
+				large = GFX_portrait_USR_nikita_krushchyov
+			}
+		}
+		country_leader = {
+			ideology = marxism
+			expire = "1960.3.1"
+			id = -1
+			traits = { }
+		}
+	}
+
+}
+	

@@ -1,0 +1,29 @@
+state={
+	id=984
+	name="STATE_984"
+	
+	history={
+		owner = BSR
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+		}
+		victory_points = {
+			3392 1
+		} 
+		victory_points = {
+			560 1
+		}
+		
+		add_core_of = BSR
+		add_claim_by = UKS
+	}
+	
+	provinces={
+		560 3556 6280 6306 11285 
+	}
+	manpower=506932
+	state_category=town
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

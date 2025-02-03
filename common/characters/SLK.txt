@@ -1,0 +1,19 @@
+characters = {
+
+	SLK_ferdinand_chatlosh = {
+		name = SLK_ferdinand_chatlosh
+		portraits = {
+			civilian = {
+				large = GFX_portrait_SLK_ferdinand_chatlosh
+			}
+		}
+		country_leader = {
+			ideology = nazism
+			expire = "1960.3.1"
+			id = -1
+			traits = { }
+		}
+	}
+
+}
+	

@@ -1,0 +1,7 @@
+spriteTypes = {
+	spriteType = {
+		name = "GFX_cold_valkyrie_station_art"
+		texturefile = "gfx/interface/topbar/cold_valkyrie_radio_station_art.png"
+		noOfFrames = 2
+	}	
+}

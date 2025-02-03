@@ -1,0 +1,49 @@
+characters = {
+
+	No_name_character_COM = {
+		name = No_name_character
+		portraits = {
+			civilian = {
+				large = GFX_portrait_No_name_character_COM
+			}
+		}
+		country_leader = {
+			ideology = marxism
+			expire = "1960.3.1"
+			id = -1
+			traits = { }
+		}
+	}
+
+	No_name_character_NAZ = {
+		name = No_name_character
+		portraits = {
+			civilian = {
+				large = GFX_portrait_No_name_character_NAZ
+			}
+		}
+		country_leader = {
+			ideology = nazism
+			expire = "1960.3.1"
+			id = -1
+			traits = { }
+		}
+	}
+
+	No_name_character_DEM = {
+		name = No_name_character
+		portraits = {
+			civilian = {
+				large = GFX_portrait_No_name_character_DEM
+			}
+		}
+		country_leader = {
+			ideology = conservatism
+			expire = "1960.3.1"
+			id = -1
+			traits = { }
+		}
+	}
+
+}
+	

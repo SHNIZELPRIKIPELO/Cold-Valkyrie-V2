@@ -1,0 +1,19 @@
+characters = {
+
+	PLR_michailo_vituschka = {
+		name = PLR_michailo_vituschka
+		portraits = {
+			civilian = {
+				large = GFX_portrait_PLR_michailo_vituschka
+			}
+		}
+		country_leader = {
+			ideology = transitional_government
+			expire = "1960.3.1"
+			id = -1
+			traits = { }
+		}
+	}
+
+}
+	

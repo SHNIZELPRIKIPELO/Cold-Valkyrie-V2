@@ -1,0 +1,23 @@
+state={
+	id=992
+	name="STATE_992"
+	
+	history={
+		owner = HUN
+		buildings = {
+			infrastructure = 3
+		}
+		victory_points = {
+			13367 1
+		}
+		add_core_of = HUN
+	}
+	
+	provinces={
+		13367 
+	}
+	manpower=54069
+	state_category = town
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

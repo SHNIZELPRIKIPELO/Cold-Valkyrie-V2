@@ -1,0 +1,19 @@
+characters = {
+
+	FSP_francisco_franco= {
+		name = FSP_francisco_franco
+		portraits = {
+			civilian = {
+				large = GFX_portrait_FSP_francisco_franco
+			}
+		}
+		country_leader = {
+			ideology = francism
+			expire = "1960.3.1"
+			id = -1
+			traits = { }
+		}
+	}
+
+}
+	

@@ -1,0 +1,19 @@
+characters = {
+
+	CZR_edward_benesh = {
+		name = CZR_edward_benesh
+		portraits = {
+			civilian = {
+				large = GFX_portrait_CZR_edward_benesh
+			}
+		}
+		country_leader = {
+			ideology = conservatism
+			expire = "1960.3.1"
+			id = -1
+			traits = { }
+		}
+	}
+
+}
+	

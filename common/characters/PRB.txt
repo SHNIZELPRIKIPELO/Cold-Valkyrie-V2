@@ -1,0 +1,19 @@
+characters = {
+
+	PRB_antonio_salazar= {
+		name = PRB_antonio_salazar
+		portraits = {
+			civilian = {
+				large = GFX_portrait_PRB_antonio_salazar
+			}
+		}
+		country_leader = {
+			ideology = estado_novo
+			expire = "1960.3.1"
+			id = -1
+			traits = { }
+		}
+	}
+
+}
+	

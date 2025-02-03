@@ -1,0 +1,19 @@
+characters = {
+
+	FFR_charles_de_gaulle = {
+		name = FFR_charles_de_gaulle
+		portraits = {
+			civilian = {
+				large = GFX_portrait_FFR_charles_de_gaulle
+			}
+		}
+		country_leader = {
+			ideology = transitional_government
+			expire = "1960.3.1"
+			id = -1
+			traits = { }
+		}
+	}
+
+}
+	

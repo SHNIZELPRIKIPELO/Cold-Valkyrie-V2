@@ -1,0 +1,18 @@
+characters = {
+
+	UKS_yaroslav_stetsko = {
+		name = UKS_yaroslav_stetsko
+		portraits = {
+			civilian = {
+				large = GFX_portrait_UKS_yaroslav_stetsko
+			}
+		}
+		country_leader = {
+			ideology = transitional_government
+			expire = "1960.3.1"
+			id = -1
+			traits = { }
+		}
+	}
+}
+	

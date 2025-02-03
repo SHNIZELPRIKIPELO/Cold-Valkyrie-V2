@@ -1,0 +1,19 @@
+characters = {
+
+	GNR_ludwig_beck = {
+		name = GNR_ludwig_beck
+		portraits = {
+			civilian = {
+				large = GFX_portrait_GNR_ludwig_beck
+			}
+		}
+		country_leader = {
+			ideology = stratocraty
+			expire = "1960.3.1"
+			id = -1
+			traits = { }
+		}
+	}
+
+}
+	

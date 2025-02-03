@@ -1,0 +1,24 @@
+state={
+	id=991
+	name="STATE_991"
+	
+	history={
+		owner = BSR
+		buildings = {
+			infrastructure = 2
+		}
+		victory_points = {
+			3203 1
+		}
+		add_claim_by = UKS
+		add_core_of = BSR
+	}
+	
+	provinces={
+		215 304 3203 3293 3507 6319 9249 11313 
+	}
+	manpower=405930
+	state_category = rural
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

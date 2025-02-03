@@ -1,0 +1,23 @@
+state={
+	id=983
+	name="STATE_983"
+	
+	history={
+		owner = UKS
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+		}
+		victory_points = {
+			3392 1
+		}
+		add_core_of = UKS
+	}
+	provinces={
+		3256 3392 6415 11528 
+	}
+	manpower=709032
+	state_category=city
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}
