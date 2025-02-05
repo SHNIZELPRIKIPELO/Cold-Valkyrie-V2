@@ -94,7 +94,7 @@ set_popularities = {
 	communism = 50
 }
 
-recruit_character = No_name_character_COM 
+recruit_character = BSR_nikolai_gusarov
 
 
 

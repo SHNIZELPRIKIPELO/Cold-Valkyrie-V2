@@ -8805,6 +8805,11 @@ spriteTypes = {
 		name = "GFX_portrait_UKS_yaroslav_stetsko"
 		texturefile = "gfx/leaders/UKS/Portrait_UKS_Yaroslav_Stetsko.dds"
 	}
+	#BSR
+	SpriteType = {
+		name = "GFX_portrait_BSR_nikolai_gusarov"
+		texturefile = "gfx/leaders/BSR/Portrait_BSR_Nikolai_Gusarov.dds"
+	}
 	#PLR
 	SpriteType = {
 		name = "GFX_portrait_PLR_michailo_vituschka"	#MAKE PORTRAIT!!!#MAKE PORTRAIT!!!#MAKE PORTRAIT!!!

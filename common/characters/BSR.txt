@@ -1,0 +1,18 @@
+characters = {
+
+	BSR_nikolai_gusarov = {
+		name = BSR_nikolai_gusarov
+		portraits = {
+			civilian = {
+				large = GFX_portrait_BSR_nikolai_gusarov
+			}
+		}
+		country_leader = {
+			ideology = marxism
+			expire = "1960.3.1"
+			id = -1
+			traits = { }
+		}
+	}
+}
+	
